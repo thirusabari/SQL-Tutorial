@@ -1,0 +1,13 @@
+SQL Concepts Learned:
+1. RDBMS - RDBMS is a software system which is used to store only data which need to be stored in the form of tables. 
+		   In this kind of system, data is managed and stored in rows and columns which is known as tuples and attributes. 
+		   RDBMS is a powerful data management system and is widely used across the world.
+2. Query Processor  - It receives an instruction or instructions written in Structured Query Language (SQL), 
+					  chooses a plan for executing the instructions and carries out the plan
+3. DataBase Engine -  A database engine (or storage engine) is the underlying software component 
+				      that a database management system (DBMS) uses to create, read, update and delete (CRUD) data from a database.			
+4. Parser and Optimizer - The task of the SQL parser in a database server is to parse the SQL statements submitted from client applications 
+						  and to determine a way to retrieve or store data according to these statements. 
+						  A rule-based optimizer determines the most effective way to execute an 
+						  SQL statement by applying a set of preprogrammed rules.					  
+		 
