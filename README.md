@@ -1,2 +1,2 @@
 # SQL-Tutorial
-Basic Concepts of SQL
+Basic SQL Tutorial Concepts Practiced with https://www.codecademy.com/courses/learn-sql URL
