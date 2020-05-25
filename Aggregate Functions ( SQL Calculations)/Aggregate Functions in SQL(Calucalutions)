@@ -1,0 +1,6 @@
+Aggregate Functions in SQL:
+1. COUNT() - Count the Number of Rows.
+2. SUM() - the sum of the values in a column.
+3. MAX()/MIN() - the largest/smallest Value.
+4. AVG() - the average of a values in a column.
+5. ROUND() - round the values in the column.
