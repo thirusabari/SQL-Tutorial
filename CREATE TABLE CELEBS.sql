@@ -1,6 +1,0 @@
-CREATE TABLE CELEBS
-(
-id INTEGER,
-name TEXT,
-age INTEGER
-);
